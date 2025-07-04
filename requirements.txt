@@ -18,6 +18,8 @@ MarkupSafe==3.0.2
 mdurl==0.1.2
 packaging==25.0
 platformdirs==4.3.8
+psycopg==3.2.9
+psycopg-binary==3.2.9
 pydantic==2.11.7
 pydantic_core==2.33.2
 Pygments==2.19.2
